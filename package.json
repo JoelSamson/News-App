@@ -9,9 +9,11 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "docker": "^1.0.0",
+    "dotenv": "^16.3.1",
+    "next": "latest",
     "react": "latest",
-    "react-dom": "latest",
-    "next": "latest"
+    "react-dom": "latest"
   },
   "devDependencies": {
     "autoprefixer": "latest",
