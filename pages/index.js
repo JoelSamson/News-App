@@ -1,5 +1,4 @@
 import News from "../components/News/News"
-import Head from "../components/Heading/head"
 import Footer from "@/components/Footer/Footer"
 
 
