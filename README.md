@@ -1,3 +1,61 @@
+
+# News App
+
+This project is a Next.js-based news application that utilizes the News API to fetch news articles based on user-defined keywords and from popular news sources such as CNN. It incorporates technologies like Axios for making HTTP requests, Tailwind CSS for styling, and React useState hook for managing state.
+
+## Features
+
+- **Search Functionality:** Users can search for news articles based on specific keywords.
+- **Popular News Sources:** Articles are fetched from well-known news sources like CNN.
+- **React Components:** The project is built using React components, making it modular and easy to maintain.
+- **HTTP Requests:** Axios is used to make HTTP requests to the News API for fetching news data.
+- **Styling with Tailwind CSS:** Tailwind CSS is utilized for styling the UI, providing a sleek and modern design.
+- **Hosting:** The project is hosted on Vercel.
+
+## Technologies Used
+
+- Next.js
+- React
+- Axios
+- Tailwind CSS
+- useState, useEffect hook
+
+## How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/news-app.git
+```
+
+2. Navigate into the project directory:
+
+```bash
+cd news-app
+```
+
+3. Install dependencies:
+
+```bash
+npm install
+```
+
+4. Start the development server:
+
+```bash
+npm run dev
+```
+
+5. Open your browser and visit `http://localhost:3000` to view the app.
+
+## Acknowledgements
+
+- News API: For providing access to news articles.
+- Next.js: For building a powerful and efficient React application.
+- Tailwind CSS: For styling the application in a responsive and modern way.
+- Axios: For making HTTP requests to fetch data from external APIs.
+
+This project doesnt work as Newsapi doesnt allow PUBLIC API calls for free only local. I have hosted it to show the UI.
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
