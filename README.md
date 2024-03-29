@@ -96,3 +96,25 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+Here is the screenshots of the website when the API is working
+
+Main website (landing page)
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 11 52 PM" src="https://github.com/JoelSamson/News-App/assets/55976489/8393fd23-3e4c-4717-a76d-295a087d778b">
+
+WHen we select Top US Headlines 
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 13 36 PM" src="https://github.com/JoelSamson/News-App/assets/55976489/499b29c5-ff37-4fc5-b195-b565f7571bb7">
+
+When we select CNN News
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 13 56 PM" src="https://github.com/JoelSamson/News-App/assets/55976489/ac2ab2c7-7869-43fb-a56c-95abcf3d3bdc">
+
+When we use the search Bar ( Ex. Tesla news)
+
+<img width="1710" alt="Screenshot 2024-03-29 at 5 14 20 PM" src="https://github.com/JoelSamson/News-App/assets/55976489/3b5f9b32-a9e4-4ebb-a7a2-b139d6251cd2">
+
+
+
+
